@@ -29,22 +29,6 @@ Fully text-driven – runs in the terminal
 
 🖥️ How to Play
 
-Clone the repo
-
-git clone https://github.com/your-username/Hero-vs-Villain.git
-cd Hero-vs-Villain
-
-
-Compile the game
-
-g++ main.cpp -o game
-
-
-Run the game
-
-./game
-
-
 Gameplay:
 
 Press S → Start the game
